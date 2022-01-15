@@ -5,7 +5,7 @@ root=Tk()
 root.title("Credit Card Authentication")
 root.geometry("600x400")
 
-root.configure(background="gold")
+root.configure(background="white")
 
 input_box = Entry()
 input_box.place(relx=0.5, rely=0.3, anchor = CENTER)
